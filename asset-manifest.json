@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "/Bike-test/static/css/main.6580fb08.chunk.css",
+    "main.js": "/Bike-test/static/js/main.271ddcd9.chunk.js",
+    "main.js.map": "/Bike-test/static/js/main.271ddcd9.chunk.js.map",
+    "runtime-main.js": "/Bike-test/static/js/runtime-main.6feba88b.js",
+    "runtime-main.js.map": "/Bike-test/static/js/runtime-main.6feba88b.js.map",
+    "static/js/2.027baed0.chunk.js": "/Bike-test/static/js/2.027baed0.chunk.js",
+    "static/js/2.027baed0.chunk.js.map": "/Bike-test/static/js/2.027baed0.chunk.js.map",
+    "index.html": "/Bike-test/index.html",
+    "static/css/main.6580fb08.chunk.css.map": "/Bike-test/static/css/main.6580fb08.chunk.css.map",
+    "static/js/2.027baed0.chunk.js.LICENSE.txt": "/Bike-test/static/js/2.027baed0.chunk.js.LICENSE.txt",
+    "static/media/remove.394bf159.svg": "/Bike-test/static/media/remove.394bf159.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.6feba88b.js",
+    "static/js/2.027baed0.chunk.js",
+    "static/css/main.6580fb08.chunk.css",
+    "static/js/main.271ddcd9.chunk.js"
+  ]
+}
